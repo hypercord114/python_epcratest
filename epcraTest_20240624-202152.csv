@@ -1,0 +1,11 @@
+chemName,onsiteQuantUnits,onsiteQuant,onsiteQuant_date,maxOnsiteQuant,maxOnsiteQuant_date,chemConstCas,casPercent,casQuant,ehsFlag,reportFlag
+trash,lbs,1000,22:42.8,1000,22:42.8,999,10.0,100.0,,
+trash,lbs,1000,22:42.8,1000,22:42.8,888,5.0,50.0,,
+trash,lbs,1000,22:42.8,1000,22:42.8,333,3.0,30.0,,
+trash 2,lbs,150,50:55.5,150,50:55.5,193-52-0,10.0,15.0,,
+trash 2,lbs,150,50:55.5,150,50:55.5,157-92-3,17.0,25.5,,
+Envirotherm 170WF Resin,lbs,400,2024-06-24 20:21:52.653472,2500,1/12/2024,78-000-1,,,,
+Envirotherm 170WF Resin,lbs,400,2024-06-24 20:21:52.653472,2500,1/12/2024,87-000-1,,,,
+Envirotherm 170WF Resin,lbs,400,2024-06-24 20:21:52.653472,2500,1/12/2024,23-555-2,,,,
+Envirotherm 170WF Resin,lbs,400,2024-06-24 20:21:52.653472,2500,1/12/2024,69-777-5,,,,
+Envirotherm 170WF Resin,lbs,400,2024-06-24 20:21:52.653472,2500,1/12/2024,50-000-0,,,,
